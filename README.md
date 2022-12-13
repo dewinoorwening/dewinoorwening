@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dewi Noor Wening
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning about data analytics
 
 <!---
 dewinoorwening/dewinoorwening is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
